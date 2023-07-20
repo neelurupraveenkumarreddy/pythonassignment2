@@ -12,5 +12,8 @@
 2) The hen,cars is created by using Turtle class in turtle module.
 3) The background(road) is displayed by using Screen class in turtle module.
 4) The collison of hen and car is detected by measuring the distance between the hen and each car.
+5) The car,hen movements are done by using forward method in Turtle class.
+6) the levels are increased if the hen reaches paricular point (after crossing road) based on y cordinate.
+7) the high score is kept track by using a text format file, the score is stored in the string format in file. 
 * creators :
 #seshu,#akhil,#praveen
